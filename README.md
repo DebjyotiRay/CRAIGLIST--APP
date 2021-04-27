@@ -1,6 +1,5 @@
-# my_first_app
-My first app
-Lets crack it buddies
+  #DJANGO WEB DEVELOPED APP
+
 This is an web developed app can be run on any system if the computer has python installed on the machine and added to the path variable of the computer 
 this is actualy a clone of the craigslist.org of LosAngeles, i could have done it for Kolkata as well but many required items are not found in the kolkata craigslist.org, So i opted for the LosAngeles one.
 STEPS FOR RUNNING THIS ON YOUR PC:
