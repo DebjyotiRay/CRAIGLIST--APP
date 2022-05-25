@@ -14,7 +14,7 @@ ldap3==2.7
 psycopg2==2.8.5
 pyasn1==0.4.8
 pydirectory==0.1.15
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2019.3
 requests==2.23.0
 six==1.14.0
